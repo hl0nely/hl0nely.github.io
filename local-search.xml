@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>毕业课设记录</title>
+    <link href="/2025/01/13/%E6%AF%95%E4%B8%9A%E8%AF%BE%E8%AE%BE%E8%AE%B0%E5%BD%95/"/>
+    <url>/2025/01/13/%E6%AF%95%E4%B8%9A%E8%AF%BE%E8%AE%BE%E8%AE%B0%E5%BD%95/</url>
+    
+    <content type="html"><![CDATA[<p>基于时间序列的网络战场安全态势预测–LSTM神经网络</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/01/05/hello-world/"/>
+    <url>/2025/01/05/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>学习记录</p><h2 id="NPM"><a href="#NPM" class="headerlink" title="NPM"></a>NPM</h2><figure class="highlight coffeescript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><code class="hljs coffeescript">补充：<span class="hljs-built_in">npm</span>下载有些工具因为github所以不通：<br>添加代理：<br><span class="hljs-built_in">npm</span> config set proxy http:<span class="hljs-regexp">//127.0.0.1:7890 &amp; npm config set https-proxy http:/</span>/<span class="hljs-number">127.0</span><span class="hljs-number">.0</span><span class="hljs-number">.1</span>:<span class="hljs-number">7890</span> <br><br>取消代理：<br><span class="hljs-built_in">npm</span> config <span class="hljs-keyword">delete</span> proxy &amp; <span class="hljs-built_in">npm</span> config <span class="hljs-keyword">delete</span> https-proxy<br><br>更新：<span class="hljs-built_in">npm</span> install -g <span class="hljs-built_in">npm</span><br>清理缓存：<span class="hljs-built_in">npm</span> cache clean --force<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
